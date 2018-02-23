@@ -1,0 +1,5 @@
+try0: back to vgg; refactored
+try1: decrease input 120 -> 60
+try2: new data set (regened with proper env var); add MORE DATA;
+try3: THE MOBILENET
+try4: relu bn try(bn is still bad); add rotation

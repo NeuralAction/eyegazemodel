@@ -1,0 +1,1 @@
+try0 : add img argument / img normalize fix (-1~1 zeromean)

@@ -1,0 +1,8 @@
+hehe after sharpface
+try0: test some losses. final is mean sum of square diff (mean(sum(sqr(diff),1)) weight decay
+try1: test some losses with minibatch l2loss without weightdecay
+try2: reduce random noise (1->0.6) use mean sum sqr (mean sqr(dist)) batch 125; with weight decay; bsize 100; change model 120px and 120px
+try3: hmm idk. lr decay. bsize 100
+try3-1: try some batch norm/relu (is really selu efficient?
+try4: hmm face is underfitted... add fc layers lelel to face (128 -> 256 128)
+try5: 256 > 100 100, fclast 150 > 128, off dropout

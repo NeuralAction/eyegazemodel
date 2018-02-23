@@ -1,0 +1,6 @@
+try0: make shared channel
+try1: ??
+try2: remove fc2
+try3: lr = 0.0001
+try4: change loss (reduce_sum => reduce_mean) resNet apply.. 3 blocks
+try5: remove resnet
